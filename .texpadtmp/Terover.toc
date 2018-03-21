@@ -1,0 +1,5 @@
+\select@language {russian}
+\contentsline {section}{\numberline {1.\relax }Лекция }{2}
+\contentsline {subsection}{\numberline {1.1.\relax }Предмет изучения}{2}
+\contentsline {subsection}{\numberline {1.2.\relax }Частотная интерпретация вероятностей}{2}
+\contentsline {subsection}{\numberline {1.3.\relax }Вероятностное пространство}{2}
